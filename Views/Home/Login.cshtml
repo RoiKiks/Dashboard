@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "CONNEXION";
+}
+
+
+<body id="page-login">
+<div class="logo">
+<img src="@Url.Content("~/images/Sekaop_Logo.svg")" alt="Logo Sekaop" width="200" /><br><br>
+</div>
+
+<h1>@ViewData["Title"]</h1><br>
+
+
+
+<form>
+    <label for="email">Email :</label><br>
+    <input type="email" class="bulle" id="email" name="email" required><br><br>
+
+    <label for="password">Mot de passe :</label><br>
+    <div class="input-container">
+        <input type="password" class="bulle" id="password" name="password" required />
+        <button type="button" class="toggle-password" onclick="togglePassword()">Afficher</button>
+    </div>
+
+    <button type="submit">Connexion</button>
+  </form>
+</body>
