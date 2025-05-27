@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kiks/Desktop/DASHBOARD /Dashboard/Dashboard.csproj": {}
+    "/Users/kiks/Desktop/Dashboard/Dashboard.csproj": {}
   },
   "projects": {
-    "/Users/kiks/Desktop/DASHBOARD /Dashboard/Dashboard.csproj": {
+    "/Users/kiks/Desktop/Dashboard/Dashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kiks/Desktop/DASHBOARD /Dashboard/Dashboard.csproj",
+        "projectUniqueName": "/Users/kiks/Desktop/Dashboard/Dashboard.csproj",
         "projectName": "Dashboard",
-        "projectPath": "/Users/kiks/Desktop/DASHBOARD /Dashboard/Dashboard.csproj",
+        "projectPath": "/Users/kiks/Desktop/Dashboard/Dashboard.csproj",
         "packagesPath": "/Users/kiks/.nuget/packages/",
-        "outputPath": "/Users/kiks/Desktop/DASHBOARD /Dashboard/obj/",
+        "outputPath": "/Users/kiks/Desktop/Dashboard/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kiks/.nuget/NuGet/NuGet.Config"

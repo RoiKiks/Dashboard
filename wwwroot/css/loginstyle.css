@@ -31,7 +31,7 @@ form {
   cursor: pointer;
 }
 
-#page-login{
+.pagelogin{
     background-color: black;
     display:flex;
     color:#46ca3b;
