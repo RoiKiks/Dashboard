@@ -31,15 +31,6 @@ form {
   cursor: pointer;
 }
 
-.pagelogin{
-    background-color: black;
-    display:flex;
-    color:#46ca3b;
-    align-items: center;             
-    margin: 0;   
-    text-align: center;
-}
-
 .bulle{
     background-color:black;
     border-radius: 12px;

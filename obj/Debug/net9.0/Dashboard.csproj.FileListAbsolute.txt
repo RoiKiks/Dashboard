@@ -114,8 +114,6 @@
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/scopedcss/bundle/Dashboard.styles.css
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/scopedcss/projectbundle/Dashboard.bundle.scp.css
-/Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/upjx3j9bly-ecp171c71x.gz
-/Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/xliac9zqdc-ktkj6bz9j4.gz
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/hwdkjbdm3t-61n19gt1b8.gz
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/bkvlpqcjvs-sljfvbli9x.gz
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/btxwr8bjj6-gqlao1161c.gz
@@ -191,3 +189,5 @@
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/Dashboard.pdb
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/Dashboard.genruntimeconfig.cache
 /Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/ref/Dashboard.dll
+/Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/upjx3j9bly-tpkbl347vw.gz
+/Users/kiks/Desktop/Dashboard/obj/Debug/net9.0/compressed/xliac9zqdc-mx9pao66r2.gz
